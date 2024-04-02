@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/x-blum-x.github.io/static/css/main.7b1e5c16.css",
-    "main.js": "/x-blum-x.github.io/static/js/main.22dc66f6.js",
+    "main.css": "/x-blum-x.github.io/static/css/main.e033110b.css",
+    "main.js": "/x-blum-x.github.io/static/js/main.cb822cf3.js",
     "static/js/453.b1a334eb.chunk.js": "/x-blum-x.github.io/static/js/453.b1a334eb.chunk.js",
     "static/media/fundo.jpg": "/x-blum-x.github.io/static/media/fundo.44efca62491edf202b29.jpg",
     "static/media/fundo_js.jpg": "/x-blum-x.github.io/static/media/fundo_js.b016721fc170f0caf30e.jpg",
@@ -13,12 +13,12 @@
     "static/media/linkedin.png": "/x-blum-x.github.io/static/media/linkedin.4506ebc862bab12b6eeb.png",
     "static/media/python.png": "/x-blum-x.github.io/static/media/python.f7f12e1bf59e577656a2.png",
     "index.html": "/x-blum-x.github.io/index.html",
-    "main.7b1e5c16.css.map": "/x-blum-x.github.io/static/css/main.7b1e5c16.css.map",
-    "main.22dc66f6.js.map": "/x-blum-x.github.io/static/js/main.22dc66f6.js.map",
+    "main.e033110b.css.map": "/x-blum-x.github.io/static/css/main.e033110b.css.map",
+    "main.cb822cf3.js.map": "/x-blum-x.github.io/static/js/main.cb822cf3.js.map",
     "453.b1a334eb.chunk.js.map": "/x-blum-x.github.io/static/js/453.b1a334eb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7b1e5c16.css",
-    "static/js/main.22dc66f6.js"
+    "static/css/main.e033110b.css",
+    "static/js/main.cb822cf3.js"
   ]
 }
